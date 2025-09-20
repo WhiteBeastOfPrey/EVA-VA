@@ -27,3 +27,5 @@
 
 - Windows 10/11 (x64)
 - Микрофон
+
+-Последний релиз https://github.com/WhiteBeastOfPrey/EVA-VA/releases/tag/MAJOR
